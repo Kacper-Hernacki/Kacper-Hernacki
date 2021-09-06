@@ -7,9 +7,9 @@
 [![Website](https://img.shields.io/website?label=kacperhernacki.com&style=for-the-badge&url=https%3A%2F%2Fkacperhernacki.com)](https://kacperhernacki.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/KacperHernacki?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/kacperhernacki)
 
-## I'm a Full-Stack developer, Master of Science - Electronics and Telecomunications, Engineer, and programming Teacher! 👨‍🎓
+<h4 align="center">I'm a Full-Stack developer, Master of Science - Electronics and Telecomunications, Engineer, and programming Teacher! 👨‍🎓</h4>
 
-## Currently running a startup based on SaaS platform with blockchain 👩‍🚀
+<h4 align="center">Currently running a startup based on SaaS platform with blockchain 👩‍🚀</h4>
 
 - 🌱 learning how to connect Web development and Blockchain
 - 👯 I’m seeking innovate solutions for complex problems
@@ -50,15 +50,13 @@
 <br />
 <br />
 
----
+## 📊 My Github Stats
 
 <p align="center">
     <a href="https://github.com/Kacper-Hernacki/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Kacper's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Kacper-Hernacki&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
-
-## 📊 My Github Stats
 
   <br/>
     <a href="https://github.com/Kacper-Hernacki/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Kacper-Hernacki&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
