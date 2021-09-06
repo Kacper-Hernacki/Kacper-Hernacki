@@ -2,14 +2,14 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Kacper</h1>
 
-<h3 align="center"> Passionate Developer from Poland 🇵🇱</h3>
+<h2 align="center"> Passionate Developer from Poland 🇵🇱</h2>
 
 [![Website](https://img.shields.io/website?label=kacperhernacki.com&style=for-the-badge&url=https%3A%2F%2Fkacperhernacki.com)](https://kacperhernacki.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/KacperHernacki?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/kacperhernacki)
 
-<h4 align="center">I'm a Full-Stack developer, Master of Science - Electronics and Telecomunications, Engineer, and programming Teacher! 👨‍🎓</h4>
+<h1 align="center">I'm a Full-Stack developer, Master of Science - Electronics and Telecomunications, Engineer, and programming Teacher! 👨‍🎓</h1>
 
-<h4 align="center">Currently running a startup based on SaaS platform with blockchain 👩‍🚀</h4>
+<h1 align="center">Currently running a startup based on SaaS platform with blockchain 👩‍🚀</h1>
 
 - 🌱 learning how to connect Web development and Blockchain
 - 👯 I’m seeking innovate solutions for complex problems
