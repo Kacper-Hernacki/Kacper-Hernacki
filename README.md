@@ -1,8 +1,8 @@
 <a align="center" href="#"><img align="center" width="200px" height="auto" src="https://i.pinimg.com/564x/0a/55/ab/0a55ab1a7573a92184f490c0e931edd2.jpg" height="175px"/></a>
 
-### Hi there, I'm Kacper HERNACKI 👋
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Kacper</h1>
 
-### Passionate Developer from Poland 🇵🇱
+<h3 align="center"> Passionate Developer from Poland 🇵🇱</h3>
 
 [![Website](https://img.shields.io/website?label=kacperhernacki.com&style=for-the-badge&url=https%3A%2F%2Fkacperhernacki.com)](https://kacperhernacki.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/KacperHernacki?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/kacperhernacki)
