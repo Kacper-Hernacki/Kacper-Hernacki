@@ -1,4 +1,4 @@
-<center><img width="200px" height="auto" src="https://i.pinimg.com/564x/0a/55/ab/0a55ab1a7573a92184f490c0e931edd2.jpg" height="175px"/></center>
+<a href="#"><img align="center" width="200px" height="auto" src="https://i.pinimg.com/564x/0a/55/ab/0a55ab1a7573a92184f490c0e931edd2.jpg" height="175px"/></a>
 
 ### Hi there, I'm Kacper HERNACKI 👋
 
