@@ -2,7 +2,6 @@
 
 [![Website](https://img.shields.io/website?label=kacperhernacki.com&style=for-the-badge&url=https%3A%2F%2Fkacperhernacki.com)](https://kacperhernacki.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/KacperHernacki?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/kacperhernacki)
-[![Instagram Follow](https://img.shields.io/instagram/follow/kacper.hernacki?color=1DA1F2&logo=instagram&style=for-the-badge)](https://instagram.com/kacper.hernacki)
 
 ## I'm a Full-Stack developer, Master of Science - Electronics and Telecomunications, Engineer, and programming Teacher! 👨‍🎓
 
