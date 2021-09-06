@@ -71,3 +71,10 @@
 
 <br/>
 <br/>
+
+## ❤ Views and Followers
+
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Kacper-Hernacki">
+</a>
+<a href="https://github.com/Kacper-Hernacki?tab=followers"><img src="https://img.shields.io/github/followers/Kacper-Hernacki?label=Followers&style=social" alt="GitHub Badge"></a>
