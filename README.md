@@ -1,5 +1,7 @@
 ### Hi there, I'm Kacper HERNACKI 👋
 
+### Passionate Developer from Poland 🇵🇱
+
 [![Website](https://img.shields.io/website?label=kacperhernacki.com&style=for-the-badge&url=https%3A%2F%2Fkacperhernacki.com)](https://kacperhernacki.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/KacperHernacki?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/kacperhernacki)
 
@@ -9,7 +11,7 @@
 
 - 🌱 learning how to connect Web development and Blockchain
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Become Senior Developer very fast to better collaborate with my super talented startup team
+- 🥅 2021 Goals: Become Senior Developer very fast so that I can better collaborate with my super talented startup team
 - ⚡ Fun fact: I love skiing, playing basketball, self-developing
 
 ### Connect with me:
