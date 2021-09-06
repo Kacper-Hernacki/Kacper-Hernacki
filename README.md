@@ -1,3 +1,5 @@
+<a href="#"><img width="100%" height="auto" src="https://i.pinimg.com/originals/77/f6/6c/77f66c4fcde33fffce6daf89245185b0.jpg" height="175px"/></a>
+
 ### Hi there, I'm Kacper HERNACKI 👋
 
 ### Passionate Developer from Poland 🇵🇱
