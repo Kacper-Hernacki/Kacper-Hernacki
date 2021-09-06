@@ -2,12 +2,13 @@
 
 [![Website](https://img.shields.io/website?label=kacperhernacki.com&style=for-the-badge&url=https%3A%2F%2Fkacperhernacki.com)](https://kacperhernacki.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/KacperHernacki?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/kacperhernacki)
+[![Instagram Follow](https://img.shields.io/instagram/follow/kacper.hernacki?color=1DA1F2&logo=instagram&style=for-the-badge)](https://instagram.com/kacper.hernacki)
 
 ## I'm a Full-Stack developer, Master of Science - Electronics and Telecomunications, Engineer, and programming Teacher! 👨‍🎓
 
 ## Currently running a startup based on SaaS platform with blockchain 👩‍🚀
 
-- 🌱 I’m currently learning everything how to connect Web development and Blockchain
+- 🌱 learning how to connect Web development and Blockchain
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Become Senior Developer very fast to better collaborate with my super talented startup team
 - ⚡ Fun fact: I love skiing, playing basketball, self-developing
