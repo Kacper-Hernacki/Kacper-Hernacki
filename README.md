@@ -11,11 +11,9 @@
 
 <h1 align="center">I'm a Full-Stack developer, Master of Science - Electronics and Telecomunications, Engineer, and programming Teacher! 👨‍🎓</h1>
 
-<h1 align="center">Currently running a startup based on SaaS platform with blockchain 👩‍🚀</h1>
-
 - 🌱 learning how to connect Web development and Blockchain
 - 👯 I’m seeking innovate solutions for complex problems
-- 🥅 2021 Goals: Become Senior Developer very fast so that I can better collaborate with my super talented startup team
+- 🥅 2021 Goals: Become Senior Developer 
 - ⚡ Fun fact: I love skiing, playing basketball, self-developing
 - 📫 How to reach me **hernackikacper@gmail.com**
 
