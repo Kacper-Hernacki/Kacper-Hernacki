@@ -13,7 +13,7 @@
 
 - 🌱 learning how to connect Web development and Blockchain
 - 👯 I’m seeking innovate solutions for complex problems
-- 🥅 2022 Goals: Become Senior Developer 
+- 🥅 2022 Goal: Become Senior Developer 
 - ⚡ Fun fact: I love skiing, playing basketball, self-developing
 - 📫 How to reach me **hernackikacper@gmail.com**
 
