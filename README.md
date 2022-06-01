@@ -1,6 +1,6 @@
 <p align="center"><img width="200px" height="auto" src="https://i.pinimg.com/564x/0a/55/ab/0a55ab1a7573a92184f490c0e931edd2.jpg" height="175px"/></p>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Kacper</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="50px" width="30px !important">, I'm Kacper</h1>
 
 <h2 align="center"> Passionate Developer from Poland 🇵🇱</h2>
 
