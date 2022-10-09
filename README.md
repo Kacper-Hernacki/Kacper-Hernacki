@@ -1,4 +1,4 @@
-<p align="center"><img  height="auto" src="https://www.canva.com/design/DAFOGzcvBFs/Am0NYaBbcD6zXibzZ0G6Aw/edit?utm_content=DAFOGzcvBFs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"/></p>
+<p align="center"><img width="100%" height="auto" src="/github-readme.png"/></p>
 
 <h1 align="center">Hi 👋, I'm Kacper</h1>
 <h3 align="center">A passionate full-stack developer from Poland 🇵🇱</h3>
