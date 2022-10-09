@@ -25,9 +25,6 @@
 <!-- BLOG-POST-LIST:START -->
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@hernackikacper/0" alt="Recent Article 0"> 
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@hernackikacper/2" alt="Recent Article 2"> 
-
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@hernackikacper/3" alt="Recent Article 1"> 
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
