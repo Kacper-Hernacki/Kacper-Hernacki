@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://twitter.com/kacperhernacki" target="blank"><img src="https://img.shields.io/twitter/follow/kacperhernacki?logo=twitter&style=for-the-badge" alt="kacperhernacki" /></a> </p>
 
+<p align="left"> <a href="https://kacpers-newsletter.vercel.app/" target="blank">Check my newsletter!</a> </p>
+
 - 🔭 I’m currently working on [Blockchain with Typescript](https://github.com/Kacper-Hernacki/blockchain-typescript-api)
 
 - 🌱 I’m currently learning **Solidity**
