@@ -1,23 +1,10 @@
-<p align="center"><img width="100%" height="auto" src="/github-readme.png"/></p>
+<p align="center"><img width="100%" height="auto" src="/github-banner.png"/></p>
 
 <h1 align="center">Hi 👋, I'm Kacper</h1>
 <h3 align="center">A passionate full-stack developer from Poland 🇵🇱</h3>
 
-<p align="left"> <a href="https://twitter.com/kacperhernacki" target="blank"><img src="https://img.shields.io/twitter/follow/kacperhernacki?logo=twitter&style=for-the-badge" alt="kacperhernacki" /></a> </p>
+[![Subscribe to Newsletter](https://img.shields.io/badge/Subscribe-Newsletter-blue?style=for-the-badge)](https://newsletter.moderndev.io/)
 
-<p align="left"> <a href="https://kacpers-newsletter.vercel.app/" target="blank">Check my newsletter!</a> </p>
-
-- 🔭 I’m currently working on [Blockchain with Typescript](https://github.com/Kacper-Hernacki/blockchain-typescript-api)
-
-- 🌱 I’m currently learning **Solidity**
-
-- 👯 I’m looking to collaborate on **making world a better place, by decentralizing it.**
-
-- 🤝 I’m looking for help with **Smart Contracts**
-
-- 📝 I regularly write articles on [https://medium.com/@hernackikacper](https://medium.com/@hernackikacper)
-
-- 💬 Ask me about **react, next, blockchain**
 
 - 📫 How to reach me **hernackikacper@gmail.com**
 
